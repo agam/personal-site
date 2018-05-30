@@ -1,6 +1,6 @@
-{:site-title           "Agam's Mashed-Up Pome"
+{:site-title           "Agam's Webby Kubernesis"
  :author               "Agam Brahma"
- :description          "A lazy evaluation of compute space"
+ :description          "A lazy evaluation of compute space, or, threads to online fragments"
  :site-url             "http://agambrahma.com/"
  :post-root            "posts"
  :page-root            "pages"
@@ -17,7 +17,7 @@
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue"
+ :theme                "nucleus"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
