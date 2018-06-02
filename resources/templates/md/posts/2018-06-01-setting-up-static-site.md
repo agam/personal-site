@@ -47,6 +47,7 @@ Make the following change/replacement:
 
 ```conf
     location = / {
+        root /usr/share/nginx/html;
         rewrite "^.$" /blog break;
     }
 
