@@ -1,17 +1,20 @@
 {:title "About Me"
  :layout :page
  :page-index 0
+ :home? true
  :navbar? true}
 
-### Introductions
+## Introductions
 
 Well, _welcome_ !
 
-### Quick Contact
+There are many pages in the web, but this one is mine ...
+
+## Quick Contact
 
 I have an email address (_agam DOT brahma AT gmail DOT com_)
 
-### Other places to find me
+## Other places to find me
 
 - I [tweet](https://twitter.com/agambrahma) semi-frequently; it's
   currently my _only_ "social media" presence
