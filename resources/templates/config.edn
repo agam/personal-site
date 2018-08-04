@@ -20,7 +20,7 @@
  :theme                "nucleus"
  :resources            ["img"]
  :keep-files           [".git"]
- :disqus?              false
+ :disqus?              true
  :disqus-shortname     ""
  :ignored-files        [#"\.#.*" #".*\.swp$"]
  :posts-per-page       5
