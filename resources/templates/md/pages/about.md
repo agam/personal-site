@@ -1,4 +1,4 @@
-{:title "About Me"
+{:title "Agam's Webby Kubernesis ..."
  :layout :page
  :page-index 0
  :home? true
