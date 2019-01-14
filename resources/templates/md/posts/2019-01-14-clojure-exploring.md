@@ -1,5 +1,5 @@
 
-{:title "Clojure Exploration" :layout :post :tags [""]}
+{:title "Clojure Exploration" :layout :post :tags ["clojure"]}
 
 Some stuff I found useful when tyring to look up stuff in new namespaces.
 
